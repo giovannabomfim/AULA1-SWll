@@ -1,0 +1,11 @@
+C:\Users\aluno\source\repos\AULA1\AULA1\obj\Debug\netcoreapp2.1\AULA1.csprojAssemblyReference.cache
+C:\Users\aluno\source\repos\AULA1\AULA1\obj\Debug\netcoreapp2.1\AULA1.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\AULA1\AULA1\obj\Debug\netcoreapp2.1\AULA1.AssemblyInfoInputs.cache
+C:\Users\aluno\source\repos\AULA1\AULA1\obj\Debug\netcoreapp2.1\AULA1.AssemblyInfo.cs
+C:\Users\aluno\source\repos\AULA1\AULA1\bin\Debug\netcoreapp2.1\AULA1.deps.json
+C:\Users\aluno\source\repos\AULA1\AULA1\bin\Debug\netcoreapp2.1\AULA1.runtimeconfig.json
+C:\Users\aluno\source\repos\AULA1\AULA1\bin\Debug\netcoreapp2.1\AULA1.runtimeconfig.dev.json
+C:\Users\aluno\source\repos\AULA1\AULA1\bin\Debug\netcoreapp2.1\AULA1.dll
+C:\Users\aluno\source\repos\AULA1\AULA1\bin\Debug\netcoreapp2.1\AULA1.pdb
+C:\Users\aluno\source\repos\AULA1\AULA1\obj\Debug\netcoreapp2.1\AULA1.dll
+C:\Users\aluno\source\repos\AULA1\AULA1\obj\Debug\netcoreapp2.1\AULA1.pdb
